@@ -1,0 +1,9 @@
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\bin\Debug\DAL.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\bin\Debug\DAL.pdb
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\obj\Debug\DAL.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\obj\Debug\DAL.pdb
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\bin\Debug\BE.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\bin\Debug\BE.pdb
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\DAL\obj\Debug\DAL.csproj.CopyComplete

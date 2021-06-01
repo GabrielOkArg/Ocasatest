@@ -1,0 +1,6 @@
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BE\bin\Debug\BE.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BE\bin\Debug\BE.pdb
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BE\obj\Debug\BE.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BE\obj\Debug\BE.pdb

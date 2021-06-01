@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fjt6gMNW7UuQ79ksTHf0KBK4xe2N3SYVqoUyqaguDv6rwm+UnOInzhaAmYqZujxpXUPmNPIHkGhNj/OQUBrvow==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ocasa\\Ocasatest\\Test_SilvaGabriel\\DAO\\DAO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eduardo.silva\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\eduardo.silva\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

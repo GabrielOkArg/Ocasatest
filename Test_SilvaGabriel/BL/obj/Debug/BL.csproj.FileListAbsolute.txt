@@ -1,0 +1,11 @@
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\bin\Debug\BL.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\bin\Debug\BL.pdb
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\bin\Debug\BE.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\bin\Debug\DAL.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\bin\Debug\BE.pdb
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\bin\Debug\DAL.pdb
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\obj\Debug\BL.dll
+C:\Projects\ocasa\Ocasatest\Test_SilvaGabriel\BL\obj\Debug\BL.pdb
